@@ -1,4 +1,4 @@
-#Citizen Curation
+# Citizen Curation
 ![](Aspose.Words.340659f5-8805-4c3b-bd1e-36b0ee5c83b0.001.png)
 
 **Basi di dati e Sistemi Informativi: Sperimentazioni - A.A. 2022-2023** **Progettazione e realizzazione di una base di dati** 
