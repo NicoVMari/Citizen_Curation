@@ -181,3 +181,9 @@ Gli **utenti** che appartengono a **categorie fragili**
 
 Qualsiasi altra operazione/funzionalità del sistema e/o modellazione di requisiti non descritti, purché motivata, è ben accetta! 
 8 
+
+<p align="center">
+  <img src="https://github.com/NicoVMari/Citizen_Curation/assets/96552280/af4e16fe-9d52-4890-aef3-2f0d679c356a" alt="Testo alternativo" />
+</p>
+
+
