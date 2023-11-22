@@ -14,14 +14,16 @@ Su ciascuna opera d’arte (codice dell’opera, titolo dell’opera, autore, de
 ![](Aspose.Words.340659f5-8805-4c3b-bd1e-36b0ee5c83b0.003.jpeg)![Aspose Words 340659f5-8805-4c3b-bd1e-36b0ee5c83b0 003](https://github.com/NicoVMari/Citizen_Curation/assets/96552280/278e1588-b2a8-40e8-850c-b1c39d9943fa)
 
 
-Creazione di una storia![](Aspose.Words.340659f5-8805-4c3b-bd1e-36b0ee5c83b0.004.jpeg)![Aspose Words 340659f5-8805-4c3b-bd1e-36b0ee5c83b0 004](https://github.com/NicoVMari/Citizen_Curation/assets/96552280/941ab155-51ea-42f5-9365-30ffa8a899d2)
+Creazione di una storia
+![](Aspose.Words.340659f5-8805-4c3b-bd1e-36b0ee5c83b0.004.jpeg)![Aspose Words 340659f5-8805-4c3b-bd1e-36b0ee5c83b0 004](https://github.com/NicoVMari/Citizen_Curation/assets/96552280/941ab155-51ea-42f5-9365-30ffa8a899d2)
 ![](Aspose.Words.340659f5-8805-4c3b-bd1e-36b0ee5c83b0.005.jpeg)![Aspose Words 340659f5-8805-4c3b-bd1e-36b0ee5c83b0 005](https://github.com/NicoVMari/Citizen_Curation/assets/96552280/b3ce30f5-502d-43ed-95c9-9c6e6f08ce24)
 
 
 ![](Aspose.Words.340659f5-8805-4c3b-bd1e-36b0ee5c83b0.006.png)![Aspose Words 340659f5-8805-4c3b-bd1e-36b0ee5c83b0 006](https://github.com/NicoVMari/Citizen_Curation/assets/96552280/59d79e3c-328b-4824-b777-c148f3b3a0d9)
 
 
-Annotazione di un’opera d’arte con emoji, hashtag e commenti ![](Aspose.Words.340659f5-8805-4c3b-bd1e-36b0ee5c83b0.007.jpeg)![Aspose Words 340659f5-8805-4c3b-bd1e-36b0ee5c83b0 007](https://github.com/NicoVMari/Citizen_Curation/assets/96552280/7fdac553-0dda-494a-bb71-adcdd97ed57e)
+Annotazione di un’opera d’arte con emoji, hashtag e commenti 
+![](Aspose.Words.340659f5-8805-4c3b-bd1e-36b0ee5c83b0.007.jpeg)![Aspose Words 340659f5-8805-4c3b-bd1e-36b0ee5c83b0 007](https://github.com/NicoVMari/Citizen_Curation/assets/96552280/7fdac553-0dda-494a-bb71-adcdd97ed57e)
 
 
 I curatori (cittadini che sono dipendenti museali e che gestiscono la galleria d’arte), attraverso l’interazione con informatici e progettisti, hanno scelto di raccogliere alcune impressioni e commenti circa le sensazioni degli utenti. Le domande, poste dai curatori del museo a livello di opera, hanno come obiettivo l’innescare e guidare il processo interpretativo a un livello più concettuale. Queste domande, suggerite dall'esperienza dei curatori e degli educatori del museo e in linea con la teoria dell'identità narrativa, corrispondono ai ricordi personali evocati dall'opera d'arte, agli spunti tematici da essa innescati e alle sensazioni che suscita. Tuttavia, per rispettare le indicazioni fornite dagli esperti, queste domande sono state i) poste in forma affermativa ii) espresse sotto forma di modelli da completare iii) accompagnate da icone evocative. 
