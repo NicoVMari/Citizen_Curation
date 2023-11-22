@@ -10,22 +10,6 @@ Il  museo  mette  a  disposizione  una  galleria  d’arte  contemporanea  (ad  
 
 Su ciascuna opera d’arte (codice dell’opera, titolo dell’opera, autore, descrizione, materiale e tecniche con cui è stata realizzata, anno di realizzazione ecc…), l’utente può aggiungere emoji e  hashtag.  Una  volta  aggiunti,  gli  emoji  e  i  tag  possono  essere  trascinati  nella  posizione desiderata dall'utente e, se necessario, scartati. In questo modo, l'opera d'arte diventa una parte intrinseca  dell'attività  creativa,  una  lavagna  su  cui  i  cittadini  e  gli  utenti  museali  possono esprimere i loro sentimenti e le loro idee sull'opera. 
 
-![](Aspose.Words.340659f5-8805-4c3b-bd1e-36b0ee5c83b0.002.png)![Aspose Words 340659f5-8805-4c3b-bd1e-36b0ee5c83b0 002](https://github.com/NicoVMari/Citizen_Curation/assets/96552280/9b9d88f0-fa60-4dea-b3b6-e0e931cecc23)
-![](Aspose.Words.340659f5-8805-4c3b-bd1e-36b0ee5c83b0.003.jpeg)![Aspose Words 340659f5-8805-4c3b-bd1e-36b0ee5c83b0 003](https://github.com/NicoVMari/Citizen_Curation/assets/96552280/278e1588-b2a8-40e8-850c-b1c39d9943fa)
-
-
-Creazione di una storia
-![](Aspose.Words.340659f5-8805-4c3b-bd1e-36b0ee5c83b0.004.jpeg)![Aspose Words 340659f5-8805-4c3b-bd1e-36b0ee5c83b0 004](https://github.com/NicoVMari/Citizen_Curation/assets/96552280/941ab155-51ea-42f5-9365-30ffa8a899d2)
-![](Aspose.Words.340659f5-8805-4c3b-bd1e-36b0ee5c83b0.005.jpeg)![Aspose Words 340659f5-8805-4c3b-bd1e-36b0ee5c83b0 005](https://github.com/NicoVMari/Citizen_Curation/assets/96552280/b3ce30f5-502d-43ed-95c9-9c6e6f08ce24)
-
-
-![](Aspose.Words.340659f5-8805-4c3b-bd1e-36b0ee5c83b0.006.png)![Aspose Words 340659f5-8805-4c3b-bd1e-36b0ee5c83b0 006](https://github.com/NicoVMari/Citizen_Curation/assets/96552280/59d79e3c-328b-4824-b777-c148f3b3a0d9)
-
-
-Annotazione di un’opera d’arte con emoji, hashtag e commenti 
-![](Aspose.Words.340659f5-8805-4c3b-bd1e-36b0ee5c83b0.007.jpeg)![Aspose Words 340659f5-8805-4c3b-bd1e-36b0ee5c83b0 007](https://github.com/NicoVMari/Citizen_Curation/assets/96552280/7fdac553-0dda-494a-bb71-adcdd97ed57e)
-
-
 I curatori (cittadini che sono dipendenti museali e che gestiscono la galleria d’arte), attraverso l’interazione con informatici e progettisti, hanno scelto di raccogliere alcune impressioni e commenti circa le sensazioni degli utenti. Le domande, poste dai curatori del museo a livello di opera, hanno come obiettivo l’innescare e guidare il processo interpretativo a un livello più concettuale. Queste domande, suggerite dall'esperienza dei curatori e degli educatori del museo e in linea con la teoria dell'identità narrativa, corrispondono ai ricordi personali evocati dall'opera d'arte, agli spunti tematici da essa innescati e alle sensazioni che suscita. Tuttavia, per rispettare le indicazioni fornite dagli esperti, queste domande sono state i) poste in forma affermativa ii) espresse sotto forma di modelli da completare iii) accompagnate da icone evocative. 
 
 Per questo motivo, il modello di fase di annotazione, prevede anche che, per ciascuna opera, l’utente visitatore possa rispondere a tre domande utilizzando un campo di testo libero: 
@@ -57,12 +41,6 @@ Per queste ragioni, gli emoji possono essere funzionali a facilitare il processo
 Per ottenere raccomandazioni affettive e orientate alla diversità dalle emozioni associate dagli utenti  e  dai  curatori  alle  opere  d'arte  attraverso  le  annotazioni  (utenti),  la  generazione  di raccomandazioni  emotivamente  diverse  si  basa  sul  modello  delle  emozioni  di  Plutchik (https://en.wikipedia.org/wiki/Robert\_Plutchik)  che  combina  un  approccio  categoriale  alle emozioni, con tipi di emozione distinti come la gioia, lo stupore o la paura, con un approccio dimensionale che stabilisce le emozioni in relazioni di somiglianza e opposizione, utili per esplorare la diversità. 
 
 In  questo  modo,  quando  un  utente  termina  la  creazione  della  propria  storia,  il  sistema  di ragionamento suggerirà le storie create dagli altri utenti che, basate sulla sua storia appena creata, avranno emozioni uguali, simili e opposte. Ciascuna storia creata dall’utente, oltre agli attributi precedenti, sarà caratterizzata da una relazione che descrive le storie (create dagli altri utenti) suggerite in modo da aumentare lo spettro emotivo dell’utente visitatore della galleria museale. 
-
-L’utente crea una storia dal titolo “*travel through time*” e al termine, gli viene suggerita la storia “*Caos*” creata da un altro utente che ha – in questo caso – emozione opposta rispetto alla sua 
-![](Aspose.Words.340659f5-8805-4c3b-bd1e-36b0ee5c83b0.008.jpeg)![Aspose Words 340659f5-8805-4c3b-bd1e-36b0ee5c83b0 008](https://github.com/NicoVMari/Citizen_Curation/assets/96552280/4cede158-b3ca-46fc-91df-58d0ee29388f)
-![](Aspose.Words.340659f5-8805-4c3b-bd1e-36b0ee5c83b0.009.jpeg)![Aspose Words 340659f5-8805-4c3b-bd1e-36b0ee5c83b0 009](https://github.com/NicoVMari/Citizen_Curation/assets/96552280/73f2cf91-de49-4c28-a88c-4d4c97b1562d)
-![](Aspose.Words.340659f5-8805-4c3b-bd1e-36b0ee5c83b0.010.jpeg)![Aspose Words 340659f5-8805-4c3b-bd1e-36b0ee5c83b0 010](https://github.com/NicoVMari/Citizen_Curation/assets/96552280/9a7ae7dc-07d9-4cc6-9cb0-d9b39901cdd8)
-
 
 I **curatori** del museo potranno eseguire una serie di operazioni, come ad esempio 
 
