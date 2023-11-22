@@ -56,12 +56,10 @@ Per ottenere raccomandazioni affettive e orientate alla diversità dalle emozion
 
 In  questo  modo,  quando  un  utente  termina  la  creazione  della  propria  storia,  il  sistema  di ragionamento suggerirà le storie create dagli altri utenti che, basate sulla sua storia appena creata, avranno emozioni uguali, simili e opposte. Ciascuna storia creata dall’utente, oltre agli attributi precedenti, sarà caratterizzata da una relazione che descrive le storie (create dagli altri utenti) suggerite in modo da aumentare lo spettro emotivo dell’utente visitatore della galleria museale. 
 
-L’utente crea una storia dal titolo “*travel through time*” e al termine, gli viene suggerita la storia “*Caos*” creata da un altro utente che ha – in questo caso – emozione opposta rispetto alla sua ![](Aspose.Words.340659f5-8805-4c3b-bd1e-36b0ee5c83b0.008.jpeg)![Aspose Words 340659f5-8805-4c3b-bd1e-36b0ee5c83b0 008](https://github.com/NicoVMari/Citizen_Curation/assets/96552280/4cede158-b3ca-46fc-91df-58d0ee29388f)
+L’utente crea una storia dal titolo “*travel through time*” e al termine, gli viene suggerita la storia “*Caos*” creata da un altro utente che ha – in questo caso – emozione opposta rispetto alla sua 
+![](Aspose.Words.340659f5-8805-4c3b-bd1e-36b0ee5c83b0.008.jpeg)![Aspose Words 340659f5-8805-4c3b-bd1e-36b0ee5c83b0 008](https://github.com/NicoVMari/Citizen_Curation/assets/96552280/4cede158-b3ca-46fc-91df-58d0ee29388f)
 ![](Aspose.Words.340659f5-8805-4c3b-bd1e-36b0ee5c83b0.009.jpeg)![Aspose Words 340659f5-8805-4c3b-bd1e-36b0ee5c83b0 009](https://github.com/NicoVMari/Citizen_Curation/assets/96552280/73f2cf91-de49-4c28-a88c-4d4c97b1562d)
 ![](Aspose.Words.340659f5-8805-4c3b-bd1e-36b0ee5c83b0.010.jpeg)![Aspose Words 340659f5-8805-4c3b-bd1e-36b0ee5c83b0 010](https://github.com/NicoVMari/Citizen_Curation/assets/96552280/9a7ae7dc-07d9-4cc6-9cb0-d9b39901cdd8)
-
-
-![](Aspose.Words.340659f5-8805-4c3b-bd1e-36b0ee5c83b0.011.png)![Aspose Words 340659f5-8805-4c3b-bd1e-36b0ee5c83b0 011](https://github.com/NicoVMari/Citizen_Curation/assets/96552280/b15e7f5b-519b-40a3-baa5-23bb20e611c6)
 
 
 I **curatori** del museo potranno eseguire una serie di operazioni, come ad esempio 
